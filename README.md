@@ -1,5 +1,9 @@
-# 💫 About Me:
-# Hi 👋, I'm Rupendra<br><br>💻 Backend Developer | Laravel & Node.js<br>🚀 Building scalable APIs and real-world backend systems<br>📍 India<br> 🔧 Backend Developer with ~3 years of experience<br>
+Hi 👋, I'm Rupendra Chauhan
+
+💻 Backend Developer | Laravel & Node.js<br>
+🚀 Building scalable APIs and real-world backend systems<br>
+📍 India<br>
+🔧 Backend Developer with ~3 years of experience<br>
 
 
 ## 🌐 Socials:
